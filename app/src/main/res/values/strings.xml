@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">BelajarAnak</string>
+
+    <!-- String Text for Animal's tab -->
+    <string name="Animals">Hewan</string>
+
+    <!-- String Text for Color's tab -->
+    <string name="Colors">Warna</string>
+
+    <!-- String Text for Plant's tab -->
+    <string name="Plants">Tumbuhan</string>
+
+    <!-- String Text for Family's tab -->
+    <string name="Families">Keluarga</string>
+    
+    <!-- String text for Animal -->
+    <string name="Dog">Anjing</string>
+    <string name="DogE">Dog</string>
+    <string name="Sdog">Jennie takut anjing</string>
+    <string name="SdogE">Jennie is afraid of dog</string>
+
+    <string name="Cat">Kucing</string>
+    <string name="CatE">Cat</string>
+    <string name="Scat">Kucing memiliki 4 kaki</string>
+    <string name="ScatE">Cats have 4 legs</string>
+
+    <string name="Fish">Ikan</string>
+    <string name="FishE">Fish</string>
+    <string name="Sfish">Terdapat 2 ikan di dalam akuarium</string>
+    <string name="SfishE">There are 2 fishes in the aquarium</string>
+
+    <string name="Bird">Burung</string>
+    <string name="BirdE">Bird</string>
+    <string name="Sbird">Burung-burung terbang sangat tinggi</string>
+    <string name="SbirdE">The birds are flying so high</string>
+
+    <string name="Worm">Cacing</string>
+    <string name="WormE">Worm</string>
+    <string name="Sworm">Adikku melihat cacing kemarin</string>
+    <string name="SwormE">My sister saw worm yesterday</string>
+
+    <string name="Chicken">Ayam</string>
+    <string name="ChickenE">Chicken</string>
+    <string name="Schicken">Paman memberiku 5 ayam</string>
+    <string name="SchickenE">Uncle gave me 5 chickens</string>
+
+    <string name="Duck">Bebek</string>
+    <string name="DuckE">Duck</string>
+    <string name="Sduck">Kakek dia memiliki 6 bebek</string>
+    <string name="SduckE">Her grandfather have 6 ducks</string>
+
+    <string name="Bear">Beruang</string>
+    <string name="BearE">Bear</string>
+    <string name="Sbear">Beruang itu sedang tersenyum</string>
+    <string name="SbearE">The bear is smiling</string>
+    
+    <!-- String text for Color -->
+    <string name="Red">Merah</string>
+    <string name="RedE">Red</string>
+    <string name="Sred">Apel itu berwarna merah</string>
+    <string name="SredE">Apples are red</string>
+
+    <string name="Blue">Biru</string>
+    <string name="BlueE">Blue</string>
+    <string name="Sblue">Langit itu berwarna biru</string>
+    <string name="SblueE">The sky is blue</string>
+
+    <string name="Green">Hijau</string>
+    <string name="GreenE">Green</string>
+    <string name="Sgreen">Daun pada pohon itu berwarna hijau</string>
+    <string name="SgreenE">The leaves on that tree are green</string>
+
+    <string name="Yellow">Kuning</string>
+    <string name="YellowE">Yellow</string>
+    <string name="Syellow">Lampu lalu lintas sedang berwarna kuning</string>
+    <string name="SyellowE">The traffic light is yellow</string>
+
+    <string name="White">Putih</string>
+    <string name="WhiteE">White</string>
+    <string name="Swhite">Susu yang saya suka berwarna putih</string>
+    <string name="SwhiteE">The milk I like is white</string>
+
+    <string name="Black">Hitam</string>
+    <string name="BlackE">Black</string>
+    <string name="Sblack">Hitam adalah warna untuk sebagian rambut orang</string>
+    <string name="SblackE">Black is the color for some people\'s hair</string>
+
+    <string name="Purple">Ungu</string>
+    <string name="PurpleE">Purple</string>
+    <string name="Spurple">Bunga yang berwarna ungu itu sangat indah</string>
+    <string name="SpurpleE">The purple flower is very beautiful</string>
+
+    <string name="Orange">Jingga</string>
+    <string name="OrangeE">Orange</string>
+    <string name="Sorange">Warna jingga adalah warna favorit kakak saya</string>
+    <string name="SorangeE">Orange is my brother\'s favorite color</string>
+
+    <!-- String text for Plant -->
+    <string name="Cactus">Kaktus</string>
+    <string name="CactusE">Cactus</string>
+    <string name="Scactus">Kaktus mempunyai duri di badan-nya</string>
+    <string name="ScactusE">Cactuses have spikes on its body</string>
+
+    <string name="Bamboo">Bambu</string>
+    <string name="BambooE">Bamboo</string>
+    <string name="Sbamboo">Makanan favorit panda adalah bamboo</string>
+    <string name="SbambooE">Panda’s favourite food is bamboo</string>
+
+    <string name="Sunflower">Bunga Matahari</string>
+    <string name="SunflowerE">Sunflower</string>
+    <string name="Ssunflower">Bunga matahari adalah bunga yang sangat indah</string>
+    <string name="SsunflowerE">Sunflower is a very beautiful flower</string>
+
+    <string name="Corn">Jagung</string>
+    <string name="CornE">Corn</string>
+    <string name="Scorn">Jagung sangatlah manis</string>
+    <string name="ScornE">Corns are very sweet</string>
+
+    <string name="Broccoli">Brokoli</string>
+    <string name="BroccoliE">Broccoli</string>
+    <string name="Sbroccoli">Brokoli bagus bagi kesehatan</string>
+    <string name="SbroccoliE">Broccolis are good for your health</string>
+
+    <string name="Mushroom">Jamur</string>
+    <string name="MushroomE">Mushroom</string>
+    <string name="Smushroom">Beberapa jamur memunyai racun</string>
+    <string name="SmushroomE">Some Mushrooms are poisionous</string>
+    
+    <string name="Rose">Mawar</string>
+    <string name="RoseE">Rose</string>
+    <string name="Srose">Mawar mempunyai warna merah yang terang</string>
+    <string name="SroseE">Rose has a very bright red color</string>
+    
+    <string name="PalmTree">Pohon Palem</string>
+    <string name="PalmTreeE">Palm Tree</string>
+    <string name="SpalmTree">Pohon palem adalah pohon yang menghasilkan  buah kelapa</string>
+    <string name="SpalmTreeE">Palm trees are trees that produces coconuts</string>
+
+    <!-- String text for Family -->
+    <string name="Father">Ayah</string>
+    <string name="FatherE">Father</string>
+    <string name="Sfather">Ayah sedang bekerja di kantor</string>
+    <string name="SfatherE">Father is working in the office</string>
+
+    <string name="Mother">Ibu</string>
+    <string name="MotherE">Mother</string>
+    <string name="Smother">Ibu sedang memasak di dapur</string>
+    <string name="SmotherE">Mother is cooking in the kitchen</string>
+
+    <string name="Brother">Saudara laki-laki</string>
+    <string name="BrotherE">Brother</string>
+    <string name="Sbrother">Nama saudara laki laki ku adalah john</string>
+    <string name="SbrotherE">My brother\'s name is john</string>
+
+    <string name="Sister">Saudara perempuan</string>
+    <string name="SisterE">Sister</string>
+    <string name="Ssister">Saudara perempuan ku tinggal di luar kota</string>
+    <string name="SsisterE">My sister lives outside the city</string>
+
+    <string name="Grandfather">Kakek</string>
+    <string name="GrandfatherE">Grandfather</string>
+    <string name="Sgrandfather">Kakek ku berusia 76 tahun</string>
+    <string name="SgrandfatherE">My grandfather is 76 years old</string>
+
+    <string name="Grandmother">Nenek</string>
+    <string name="GrandmotherE">Grandmother</string>
+    <string name="Sgrandmother">Saya sedang berkunjung ke rumah nenek</string>
+    <string name="SgrandmotherE">I was visiting my grandmother\'s house</string>
+
+    <string name="Uncle">Paman</string>
+    <string name="UncleE">Uncle</string>
+    <string name="Suncle">Hobi paman adalah bermain bola kaki</string>
+    <string name="SuncleE">Uncle hobby is playing football</string>
+
+    <string name="Aunty">Tante</string>
+    <string name="AuntyE">Aunty</string>
+    <string name="Saunty">Tante mengunjungi rumah saya</string>
+    <string name="SauntyE">Aunty is visiting my house</string>
+
+    <!-- String text for Detail Activity -->
+    <string name="details">Detail</string>
+</resources>
